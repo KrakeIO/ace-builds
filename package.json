@@ -1,4 +1,5 @@
-{ "author": "Ajax.org"
-, "name": "ace-builds"
-, "version": "0.0.2"
+{ "author" : "Ajax.org"
+, "name" : "ace-builds"
+, "version" : "0.0.2"
+, "main" : "./src-min-noconflict/ace.js"
 }
