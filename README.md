@@ -19,3 +19,5 @@ For a simple way of embedding ace into webpage see https://github.com/ajaxorg/ac
 To see ace in action go to [kitchen-sink-demo](http://ajaxorg.github.com/ace-builds/kitchen-sink.html), [scrollable-page-demo](http://ajaxorg.github.com/ace-builds/scrollable-page.html), or [minimal demo](http://ajaxorg.github.com/ace-builds/editor.html) 
 
 
+# Packaged for Easy NPM installation to projects
+By Krake.IO
